@@ -1,0 +1,6 @@
+fiona
+shapely
+rasterio
+matplotlib
+scikit-image
+scikit-learn
