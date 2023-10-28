@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "data-bounds-2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::6347" } },
+"features": [
+{ "type": "Feature", "properties": { "location": "D:/dev/github/nb-vegetation/data/pa_greatmarsh_2022_naip.tif" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 433779.674456076347269, 4443000.218553442507982 ], [ 435549.677146132104099, 4443000.199855235405266 ], [ 435549.68339621310588, 4441729.994017960503697 ], [ 433779.680904052685946, 4441730.009715525433421 ], [ 433779.674456076347269, 4443000.218553442507982 ] ] ] } }
+]
+}
