@@ -1,0 +1,6 @@
+[tool.ruff]
+select = ["E", "F", "W"]
+line-length = 88
+
+[tool.ruff.pydocstyle]
+convention = "google"

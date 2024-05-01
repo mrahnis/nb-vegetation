@@ -1,6 +1,8 @@
+numpy
 matplotlib
 fiona
 shapely
 rasterio
 scikit-image
 scikit-learn
+pot
