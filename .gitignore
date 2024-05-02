@@ -163,3 +163,8 @@ cython_debug/
 *.sublime-workspace
 
 results/
+
+# pixi environments
+.pixi
+*.egg-info
+
